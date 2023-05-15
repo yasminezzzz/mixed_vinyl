@@ -3,7 +3,7 @@
 @import '~@fontsource/roboto-condensed';
 
 body {
-    background-color: #17242C;
+    background-color: rgb(182, 47, 47);
     color: #fff;
     font-family: 'Roboto Condensed', sans-serif;
 }
@@ -17,7 +17,7 @@ body {
 }
 
 .song-details {
-    background-color: #74e6e6;
+    background-color: #0c74ac;
     border-radius: 5px;
     padding: 5px;
 }
@@ -27,7 +27,7 @@ body {
 }
 
 .mixed-vinyl-container {
-    background: rgb(39, 44, 23);
-    background: linear-gradient(180deg, rgba(23,36,44,1) 1%, rgba(34,47,54,1) 97%);
+    background: rgb(36, 127, 184);
+    background: linear-gradient(180deg, rgb(69, 157, 211) 1%, rgb(42, 154, 214) 97%);
     border-radius: 5px;
 }
